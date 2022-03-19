@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/wuchixialiu/cctv1.png" group-title="央视A",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/wuchixialiu/cctv1.png" group-title="张军桥A",CCTV1
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/wuchixialiu/cctv2.png" group-title="央视A",CCTV2
 http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
