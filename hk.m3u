@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U版本
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/wuchixialiu/cctv1.png" group-title="张军桥A",CCTV1
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/wuchixialiu/cctv2.png" group-title="张军桥A",CCTV2
