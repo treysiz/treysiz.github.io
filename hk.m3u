@@ -1359,7 +1359,7 @@ http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
 http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影轮播",吴京作品集
 http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成人未满18岁以上人士请离开",成人电视台
 #EXTINF:-1 ,AdultIPTV.net Anal (720p)
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 ,AdultIPTV.net Asian (720p)
