@@ -1,4 +1,187 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://117.169.120.140:8080/live/cctv-1/.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://183.207.249.9/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) [Not 24/7]
+http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p)
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=29&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p)
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=29&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p)
+http://183.207.248.71/cntv/live1/cctv-1/cctv-1
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p)
+http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv1/HD-2500k-1080P-cctv1
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (576p)
+http://183.207.248.71/gitv/live1/G_CCTV-1/G_CCTV-1
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) [Not 24/7]
+http://223.110.243.138/PLTV/3/224/3221226316/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (576p)
+http://223.110.245.139/PLTV/4/224/3221225852/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) [Not 24/7]
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (576p)
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p)
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) [Not 24/7]
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p)
+http://223.110.245.170/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p)
+http://223.110.245.170/PLTV/3/224/3221226316/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p)
+http://223.110.245.173/PLTV/4/224/3221227375/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" status="online",CCTV-2财经 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" status="online",CCTV-2财经 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" status="online",CCTV-2财经 (1080p)
+http://117.169.120.140:8080/live/cctv-2/.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" status="timeout",CCTV-2财经 (1080p)
+http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" status="timeout",CCTV-2财经 (540p)
+http://112.25.48.68/live/program/live/cctv2/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" status="timeout",CCTV-2财经 (1080p)
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=10&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="CCTV2.cn" status="timeout",CCTV-2财经 (1080p)
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=10&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="CCTV2.cn" status="timeout",CCTV-2财经 (360p)
+http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" status="timeout",CCTV-2财经 (1080p)
+http://183.207.248.71/cntv/live1/cctv-2/cctv-2
+#EXTINF:-1 tvg-id="CCTV2.cn" status="timeout",CCTV-2财经 (576p)
+http://183.207.248.71/gitv/live1/G_CCTV-2/G_CCTV-2
+#EXTINF:-1 tvg-id="CCTV2.cn" status="timeout",CCTV-2财经 (1080p)
+http://223.110.245.170/PLTV/3/224/3221227207/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://117.169.120.140:8080/live/cctv-3/.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://183.207.249.35/PLTV/4/224/3221227295/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (480p) [Not 24/7]
+http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p)
+http://39.135.38.165:6610/000000001000/1000000001000011218/1.m3u8?IASHttpSessionId=OTT16157620200202041417014267&fmt=ts2hls&u=45768392
+#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p)
+http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p)
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=80&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p) [Not 24/7]
+http://183.207.248.71/cntv/live1/cctv-3/cctv-3
+#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p)
+http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv3/HD-2500k-1080P-cctv3
+#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p)
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227295/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p)
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (576p)
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" status="online",CCTV-4 Asia (576p)
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" status="error",CCTV-4 Asia (576p) [Geo-blocked]
+http://210.210.155.35/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="online",CCTV-5体育 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="online",CCTV-5体育 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="online",CCTV-5体育 (1080p)
+http://183.207.249.35/PLTV/4/224/3221227381/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="online",CCTV-5体育 (360p) [Not 24/7]
+http://hbry.chinashadt.com:1938/live/1004.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://112.25.48.68/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=32&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=32&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://183.207.248.71/cntv/live1/cctv-5/cctv-5
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p) [Not 24/7]
+http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://223.110.243.137/PLTV/3/224/3221227478/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://223.110.245.136/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://223.110.245.139/PLTV/4/224/3221227298/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (576p)
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/1.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://223.110.245.170/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://223.110.245.172/PLTV/4/224/3221227298/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="timeout",CCTV-5体育 (1080p)
+http://ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="online",CCTV-5+体育赛事 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="online",CCTV-5+体育赛事 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="online",CCTV-5+体育赛事 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="online",CCTV-5+体育赛事 (1080p)
+http://117.169.120.132:8080/live/hdcctv05plus/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="online",CCTV-5+体育赛事 (1080p)
+http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="timeout",CCTV-5+体育赛事 (1080p)
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=36&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="timeout",CCTV-5+体育赛事 (1080p)
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=36&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="timeout",CCTV-5+体育赛事 (1080p)
+http://183.207.248.71/cntv/live1/CCTV5+/hdcctv05plus
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="timeout",CCTV-5+体育赛事 (1080p)
+http://183.207.248.71/cntv/live1/hdcctv05plus/hdcctv05plus
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="timeout",CCTV-5+体育赛事 (1080p)
+http://223.110.245.139/PLTV/4/224/3221227480/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="online",CCTV-6电影 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="online",CCTV-6电影 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="online",CCTV-6电影 (1080p)
+http://117.169.120.140:8080/live/cctv-6/.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="online",CCTV-6电影 (1080p)
+http://183.207.248.37/PLTV/3/224/3221227209/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="online",CCTV-6电影 (1080p)
+http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="online",CCTV-6电影 (1080p)
+http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="timeout",CCTV-6电影 (1080p)
+http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="timeout",CCTV-6电影 (1080p) [Not 24/7]
+http://112.25.48.68/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="timeout",CCTV-6电影 (1080p)
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=87&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="CCTV6.cn" status="timeout",CCTV-6电影 (1080p) [Not 24/7]
+http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv6/HD-2500k-1080P-cctv6
+#EXTINF:-1 tvg-id="CCTV6.cn" status="timeout",CCTV-6电影 (1080p)
+http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="timeout",CCTV-6电影 (1080p)
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="timeout",CCTV-6电影 (1080p)
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="timeout",CCTV-6电影 (1080p)
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视A",CCTV1
 http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv1/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视A",CCTV2
