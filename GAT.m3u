@@ -87,8 +87,26 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",民视影剧台(梯)
 http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",美东台
+https://ntd02.akamaized.net/HD-NY/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",美西台
+https://live.ntdtv.com/uwlive990/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",欧洲台
+https://live.ntdtv.com/eulive600/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",加东台
+https://live.ntdtv.com/mllive860/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",加西台
+https://live.ntdtv.com/cwlive220/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",美国中文电视频道
 https://cdnts.sinovision.net/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",旧金山台
+https://live.ntdtv.com/sflive990/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",休斯顿台
+https://live.ntdtv.com/htlive480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",亚太台
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中国台
+https://live.ntdtv.com/cnlive900/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",加拿大中文电视频道
 https://cdn3.wowza.com/5/Nkp4c1FTRTZFTHBY/liveCNTV/ngrp:cntv_all/chunklist_b685000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",长城频道
