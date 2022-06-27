@@ -55,11 +55,11 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视（抱歉由于服务器抢修中，暂时不能播放）
 https://t2.iptv200.com/live/tv071/index.m3u8?session=trp4ogvs5mjm1wbximrccqch2p26tixe
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视（抱歉由于服务器抢修中，暂时不能播放）
 https://t2.iptv200.com/live/tv091/index.m3u8?session=1ntz04sfwitglin0cqdxr9ps0udfdang
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
@@ -96,15 +96,15 @@ https://zypelive-amd.akamaized.net/hls/live/2042676/main/hdntl=exp=1656377631~ac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",纽约华语电视
 https://zypelive-amd.akamaized.net/hls/live/2042684/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b900ea9c57f60001a688fd&hdnts=exp%3D1656377962%7Eacl%3D%2F*2042684%2F*%7Ehmac%3Dbc9be2e3fd09ac30c82dd6fa5ec6a8eb5909d34f2289907af1853b9cdbd3f391&video_id=5e73f986d157bc0001d1ac5e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",加拿大600新闻台
-https://zypelive-amd.akamaized.net/hls/live/2042686/main/hdntl=exp=1656378068~acl=%2f*~data=hdntl~hmac=7772a336ed2f6c7ab9e0bc51e3ae26f4bc350683ec03825b2c442606fc98bc7d/playlist-1080p.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b901538900dc0001c978bb&video_id=5d39fc14e6ab7871bfb03af6
+https://zypelive-amd.akamaized.net/hls/live/2042686/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b90f4274df7100012c123a&hdnts=exp%3D1656381634%7Eacl%3D%2F*2042686%2F*%7Ehmac%3D02c8365a6caa094c25f298fea24f7957585264e42ebbeb2ea7563d8cedd9f10e&video_id=5d39fc14e6ab7871bfb03af6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",旧金山华语电视
 https://zypelive-amd.akamaized.net/hls/live/2042674/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b901af610ca3000114e799&hdnts=exp%3D1656378159%7Eacl%3D%2F*2042674%2F*%7Ehmac%3D283aae7f62350ae35320c8d446c9fddda6a86e1d73db650aa1dd9eb12afd0142&video_id=5e73f9b08d20250001c2aad6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森美洲
-https://zypelive-amd.akamaized.net/hls/live/2042674/main/hdntl=exp=1656378200~acl=%2f*~data=hdntl~hmac=d0f8afa8e4ee42be8eb56fef23029836c700616ca60222bca7ca108f0fc24046/playlist-720p.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b901d7fbcf70000189a203&video_id=5e73f9b08d20250001c2aad6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森美洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",1东森美洲
+https://zypelive-amd.akamaized.net/hls/live/2042689/main/playlist.m3u8?6pLKMQ3y=A3LziQ3i&F38b1dF4=62b9107d51aaaa000136ed62&hdnts=exp%3D1656381949%7Eacl%3D%2F*2042689%2F*%7Ehmac%3Db16d7c43995ecdb88bbfd46f40e04e5f72e4766662dc090cfc80229d1db3aa43&video_id=5f15f8a9965305000153ccb6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",2东森美洲
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森美洲新闻台
-https://zypelive-amd.akamaized.net/hls/live/2042674/main/hdntl=exp=1656378200~acl=%2f*~data=hdntl~hmac=d0f8afa8e4ee42be8eb56fef23029836c700616ca60222bca7ca108f0fc24046/playlist-720p.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b901d7fbcf70000189a203&video_id=5e73f9b08d20250001c2aad6
+https://zypelive-amd.akamaized.net/hls/live/2042685/main/playlist.m3u8?6pLKMQ3y=A3LziQ3i&F38b1dF4=62b9117561f2060001068868&hdnts=exp%3D1656382197%7Eacl%3D%2F*2042685%2F*%7Ehmac%3D87698ae3d812e02a5f859afe5ba74781fa2e0a0db4c3e1efc05a7cd4308b81ad&video_id=5e73f1f2d157bc0001d1ac10
 #EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
 http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
