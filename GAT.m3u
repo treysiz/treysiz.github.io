@@ -11,7 +11,7 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV（抱歉由于服务器抢修中，暂时不能播放）
 https://t17.iptv200.com/live/viutv/index.m3u8?session=h96zi5d9a2ig7sz0p6x5yh11awmf27i9
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",Viu TV6
 http://120.132.122.244:59845/hls/85/index.m3u8
@@ -45,7 +45,7 @@ http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 http://qwas.eatuo.com:9901/tsfile/live/1080_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31（抱歉由于服务器抢修中，暂时不能播放）
 https://t20.iptv200.com/live/rthk31.m3u8?sign=1656272179-f43e3b2e2a62584d0b7335ff66c0ded9大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32（抱歉由于服务器抢修中，暂时不能播放）
 http://teslagram.com/live/channel_32.m3u8
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -69,9 +69,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天新闻(备1)
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻(备)
-http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻(备)
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
