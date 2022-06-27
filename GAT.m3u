@@ -90,7 +90,7 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",民视影剧台(梯)
 http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",长城频道
-https://zypelive-amd.akamaized.net/hls/live/2042680/main/hdntl=exp=1656377795~acl=%2f*~data=hdntl~hmac=cb2894b12956297f79b6aa279fd769eed695a65e5263092774e4d9625d76558f/playlist-720p.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b9004215ff1600016b4817&video_id=5f15e9c6965305000153cbb4
+https://zypelive-amd.akamaized.net/hls/live/2042680/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b90dc280bcb4000176dabb&hdnts=exp%3D1656381250%7Eacl%3D%2F*2042680%2F*%7Ehmac%3Df46bffa47bd21181e9151d3dec009236ce208e6d05a8f73075ec21c59b1f4e77&video_id=5f15e9c6965305000153cbb4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中旺电视
 https://zypelive-amd.akamaized.net/hls/live/2042676/main/hdntl=exp=1656377631~acl=%2f*~data=hdntl~hmac=2deefab1e385193d0b816eec5028700c984264b095ebd201f0341da435b4a93e/playlist-1080p.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b8ff9ead6cab00012d1dbb&video_id=5cf81b618c55001ec0b73ae4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",纽约华语电视
