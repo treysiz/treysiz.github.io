@@ -1,0 +1,37 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视A",CCTV1
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv1/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视A",CCTV2
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv2/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视A",CCTV3
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv3/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视A",CCTV4
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv4/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视A",CCTV5
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv5/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视A",CCTV5+
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv05plus/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视A",CCTV6
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv6/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视A",CCTV7
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv7/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视A",CCTV8
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv8/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视A",CCTV9
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv9/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视A",CCTV10
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv10/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视A",CCTV11
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv11/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视A",CCTV12
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv12/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视A",CCTV13
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv13/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视A",CCTV14
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv14/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视A",CCTV15
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv15/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视A",CCTV16
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv16/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视A",CCTV17
+http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv17/1.m3u8?IASHttpSessionId=OTT
