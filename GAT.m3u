@@ -110,7 +110,7 @@ https://live.ntdtv.com/cnlive900/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cntvcanada.com/sites/default/files/inline-images/cctv-live-player.jpg" group-title="港澳台",加拿大中文电视频道
 https://cdn3.wowza.com/5/Nkp4c1FTRTZFTHBY/liveCNTV/ngrp:cntv_all/chunklist_b685000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ustvstaticcdn1-a.akamaihd.net/i/channel/picture/2/2/8/4/22842770/22842770,192x192,r:2.jpg" group-title="港澳台",长城频道
-https://zypelive-amd.akamaized.net/hls/live/2042680/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b90dc280bcb4000176dabb&hdnts=exp%3D1656381250%7Eacl%3D%2F*2042680%2F*%7Ehmac%3Df46bffa47bd21181e9151d3dec009236ce208e6d05a8f73075ec21c59b1f4e77&video_id=5f15e9c6965305000153cbb4
+https://zypelive-amd.akamaized.net/hls/live/2042680/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62ba65113e42f90001ac9889&hdnts=exp%3D1656469137%7Eacl%3D%2F*2042680%2F*%7Ehmac%3D71200b0d3faae1069c61f8642662e9896fecefcb8369269ddd38b875e68917b6&video_id=5f15e9c6965305000153cbb4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5facb037b751110001671f15/1605152823/original.jpg" group-title="港澳台",中旺电视
 https://zypelive-amd.akamaized.net/hls/live/2042676/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b91277d3a521000132c651&hdnts=exp%3D1656382455%7Eacl%3D%2F*2042676%2F*%7Ehmac%3Dd7645c9dbec9d963529bcb072e53dee76d93389e803eea24e8b06c760352e52f&video_id=5cf81b618c55001ec0b73ae4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5fac846536f0290001826618/1605141605/original.jpg?1605141605" group-title="港澳台",纽约华语电视
