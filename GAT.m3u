@@ -87,6 +87,8 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港澳台",民视影剧台(梯)
 http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/15746/128x128.png" group-title="港澳台",26中文台
+https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=1787760&session=077e9f9b9f5044a1aa10dd746618eeac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港澳台",美东台
 https://ntd02.akamaized.net/HD-NY/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港澳台",美西台
