@@ -118,13 +118,13 @@ https://zypelive-amd.akamaized.net/hls/live/2042684/main/playlist.m3u8?6pLKMQ3y=
 #EXTINF:-1 tvg-id="" tvg-name="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5facafb9b751110001671f12/1605152697/original.jpg" tvg-logo="" group-title="港澳台",加拿大600新闻台
 https://zypelive-amd.akamaized.net/hls/live/2042686/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62ba66a60534130001c1f29f&hdnts=exp%3D1656469542%7Eacl%3D%2F*2042686%2F*%7Ehmac%3Dd87b6cc7e9b62cd9566cfec291a4096e3810c545f434e0306efbaee68a8e7891&video_id=5d39fc14e6ab7871bfb03af6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5fac84d0b751110001671c34/1605141712/original.jpg?1605141712" group-title="港澳台",旧金山华语电视
-https://zypelive-amd.akamaized.net/hls/live/2042674/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62b901af610ca3000114e799&hdnts=exp%3D1656378159%7Eacl%3D%2F*2042674%2F*%7Ehmac%3D283aae7f62350ae35320c8d446c9fddda6a86e1d73db650aa1dd9eb12afd0142&video_id=5e73f9b08d20250001c2aad6
+https://zypelive-amd.akamaized.net/hls/live/2042674/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62ba6ae17b63d9000197a5ba&hdnts=exp%3D1656470625%7Eacl%3D%2F*2042674%2F*%7Ehmac%3D3a370fa8b092ebee9f428a60e8bc09aaeb8a11d985263ffb4ab814b16dd28f4b&video_id=5e73f9b08d20250001c2aad6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森美洲
 https://zypelive-amd.akamaized.net/hls/live/2042689/main/playlist.m3u8?6pLKMQ3y=A3LziQ3i&F38b1dF4=62b9107d51aaaa000136ed62&hdnts=exp%3D1656381949%7Eacl%3D%2F*2042689%2F*%7Ehmac%3Db16d7c43995ecdb88bbfd46f40e04e5f72e4766662dc090cfc80229d1db3aa43&video_id=5f15f8a9965305000153ccb6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森美洲（备用）
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森美洲新闻台
-https://zypelive-amd.akamaized.net/hls/live/2042685/main/playlist.m3u8?6pLKMQ3y=A3LziQ3i&F38b1dF4=62b9117561f2060001068868&hdnts=exp%3D1656382197%7Eacl%3D%2F*2042685%2F*%7Ehmac%3D87698ae3d812e02a5f859afe5ba74781fa2e0a0db4c3e1efc05a7cd4308b81ad&video_id=5e73f1f2d157bc0001d1ac10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/62791e56adc7bb00019a6050/1652104790/original.jpg?1652104790" group-title="港澳台",东森美洲新闻台
+https://zypelive-amd.akamaized.net/hls/live/2042685/main/playlist.m3u8?6pLKMQ3y=A3LziQ3i&F38b1dF4=62ba6b74c9a44f0001b0c1c0&hdnts=exp%3D1656470772%7Eacl%3D%2F*2042685%2F*%7Ehmac%3Dc6095c1105562f9488de90552b972a0e428ed3078c664d66cf5b5b906acd232f&video_id=5e73f1f2d157bc0001d1ac10
 #EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
 http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
