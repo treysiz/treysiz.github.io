@@ -109,6 +109,7 @@ https://live.ntdtv.com/htlive480/playlist.m3u8
 https://live.ntdtv.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港澳台",中国台
 https://live.ntdtv.com/cnlive900/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cntvcanada.com/sites/default/files/styles/scaled_max_width/public/media/images/cntv-logo.png?itok=8Ey4T4v0" group-title="港澳台",加拿大国家中文电视台
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cntvcanada.com/sites/default/files/inline-images/cctv-live-player.jpg" group-title="港澳台",加拿大中文电视频道
 https://cdn3.wowza.com/5/Nkp4c1FTRTZFTHBY/liveCNTV/ngrp:cntv_all/chunklist_b685000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5facb083b751110001671f18/1605152899/original.jpg?1605152899" group-title="港澳台",长城精品频道
