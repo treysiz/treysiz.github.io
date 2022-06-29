@@ -118,6 +118,8 @@ http://38.64.72.148/hls/modn/list/4008/chunklist0.m3u8
 https://zypelive-amd.akamaized.net/hls/live/2042676/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62ba69277ce76f0001762071&hdnts=exp%3D1656470183%7Eacl%3D%2F*2042676%2F*%7Ehmac%3Dc912918fad6b726679c773b923fbfc28a3a382427e29607ea13bc3493d84da1c&video_id=5cf81b618c55001ec0b73ae4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5fac846536f0290001826618/1605141605/original.jpg?1605141605" group-title="港澳台",旧金山华语电视
 http://38.64.72.148/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5fac846536f0290001826618/1605141605/original.jpg?1605141605" group-title="港澳台",纽约华语电视
+http://38.64.72.148/hls/modn/list/4003/chunklist0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5facafb9b751110001671f12/1605152697/original.jpg?1605152697" group-title="港澳台",600国际新闻台
 https://live.xinflix.com/Lshape/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5fac84d0b751110001671c34/1605141712/original.jpg?1605141712" group-title="港澳台",三藩市华语电视
