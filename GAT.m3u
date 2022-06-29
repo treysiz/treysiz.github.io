@@ -139,7 +139,7 @@ http://104.160.42.97:9500/live.m3u8?c=8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经
 http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影
-http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+http://120.84.96.227:808/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台
