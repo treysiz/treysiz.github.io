@@ -129,9 +129,9 @@ http://38.64.72.148/hls/modn/list/4003/chunklist0.m3u8
 https://live.xinflix.com/Lshape/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5fac84d0b751110001671c34/1605141712/original.jpg?1605141712" group-title="港澳台",三藩市华语电视
 http://38.64.72.148/hls/modn/list/4001/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森美洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森美洲（抱歉由于服务器抢修中，暂时不能播放）
 http://38.64.72.148/hls/modn/list/2026/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森美洲（备用）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森美洲（（抱歉由于服务器抢修中，暂时不能播放））
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/62791e56adc7bb00019a6050/1652104790/original.jpg?1652104790" group-title="港澳台",东森美洲新闻台
 https://zypelive-amd.akamaized.net/hls/live/2042685/main/playlist.m3u8?6pLKMQ3y=A3LziQ3i&F38b1dF4=62ba6b74c9a44f0001b0c1c0&hdnts=exp%3D1656470772%7Eacl%3D%2F*2042685%2F*%7Ehmac%3Dc6095c1105562f9488de90552b972a0e428ed3078c664d66cf5b5b906acd232f&video_id=5e73f1f2d157bc0001d1ac10
