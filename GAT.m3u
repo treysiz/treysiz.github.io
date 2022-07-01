@@ -22,10 +22,6 @@ http://120.84.96.227:808/hls/86/index.m3u8
 http://120.84.96.229:808/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",TVB J2(备1)
 http://120.84.96.234:808/hls/86/index.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",TVB J2(备2)
-http://120.84.96.242:808/hls/86/index.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",TVB J2(备3)
-http://120.84.96.243:808/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB 翡翠台b
 http://120.84.96.234:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB 翡翠台
@@ -92,7 +88,7 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港澳台",民视影剧台(梯)
 http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/15746/128x128.png" group-title="港澳台",26中文台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/15746/128x128.png" group-title="港澳台",26中文台（抱歉由于服务器抢修中，暂时不能播放）
 https://dai2-playlistserver.aws.syncbak.com/cpl/13892582/dai2v5/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MTI4MjYsIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6IjA3N2U5ZjliOWY1MDQ0YTFhYTEwZGQ3NDY2MThlZWFjIiwiaXAiOiI1Mi43Mi4xNTUuMjMyIiwidWlwIjoiNzEuMjE0Ljg5LjIxIiwiZG1hIjo1MzQsInNuIjoiV2ViIDE0OGE5NzIwMGYgIiwidWlkIjpudWxsLCJtaWQiOiIxMzg5MjU4MiIsIm1kNSI6ImIwNzE4MDM2MWU0MTU3N2UyY2RjNTYwMDIwM2ZiZTRjIiwiaWF0IjoxNjU2NDU0NTc2LCJleHAiOjE2NTY0NTQ2NjYsImlzcyI6IldMUyIsInN1YiI6Ijg1YmY2OGI5LWM5Y2ItNGY2NS05N2FjLWUxYmE1ZTdhYzRmMCJ9.W-ukXkqKFloA6AUP2WlUjubafx0h4iOh4G9yiFOqCEQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港澳台",美东台
 https://ntd02.akamaized.net/HD-NY/tracks-v2a1/mono.m3u8
@@ -120,7 +116,7 @@ https://live.ntdtv.com/cnlive900/playlist.m3u8
 https://cdn3.wowza.com/5/Nkp4c1FTRTZFTHBY/liveCNTV/ngrp:cntv_all/chunklist_b685000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5facb083b751110001671f18/1605152899/original.jpg?1605152899" group-title="港澳台",长城精品频道
 http://38.64.72.148/hls/modn/list/4008/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5facb037b751110001671f15/1605152823/original.jpg?1605152823" group-title="港澳台",中旺电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5facb037b751110001671f15/1605152823/original.jpg?1605152823" group-title="港澳台",中旺电视（抱歉由于服务器抢修中，暂时不能播放）
 https://zypelive-amd.akamaized.net/hls/live/2042676/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62ba69277ce76f0001762071&hdnts=exp%3D1656470183%7Eacl%3D%2F*2042676%2F*%7Ehmac%3Dc912918fad6b726679c773b923fbfc28a3a382427e29607ea13bc3493d84da1c&video_id=5cf81b618c55001ec0b73ae4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/5fac846536f0290001826618/1605141605/original.jpg?1605141605" group-title="港澳台",旧金山华语电视
 http://38.64.72.148/hls/modn/list/4002/chunklist0.m3u8
