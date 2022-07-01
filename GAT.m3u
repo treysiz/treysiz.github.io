@@ -34,7 +34,7 @@ http://120.84.96.234:808/hls/26/index.m3u8
 http://111.229.84.232/yulin/tvb.php?id=1
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经台(备1)
 http://ye23.win/iptv/tvb.php?id=2
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻（抱歉由于服务器抢修中，暂时不能播放）
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",耀财财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
