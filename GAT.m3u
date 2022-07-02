@@ -144,6 +144,14 @@ http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
 http://120.84.96.227:808/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影HD
 http://120.84.96.234:808/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森AMERICA
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经AMERICAHD
+http://38.64.72.148/hls/modn/list/2021/chunklist0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森卫视HD
+http://38.64.72.148/hls/modn/list/2024/chunklist0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",天下卫视2
+http://38.64.72.148/hls/modn/list/4009/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台
