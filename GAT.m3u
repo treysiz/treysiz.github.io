@@ -97,7 +97,7 @@ http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/15746/128x128.png" group-title="港澳台",26中文台（抱歉由于服务器抢修中，暂时不能播放）
 https://dai2-playlistserver.aws.syncbak.com/cpl/13892582/dai2v5/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MTI4MjYsIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6IjA3N2U5ZjliOWY1MDQ0YTFhYTEwZGQ3NDY2MThlZWFjIiwiaXAiOiI1Mi43Mi4xNTUuMjMyIiwidWlwIjoiNzEuMjE0Ljg5LjIxIiwiZG1hIjo1MzQsInNuIjoiV2ViIDE0OGE5NzIwMGYgIiwidWlkIjpudWxsLCJtaWQiOiIxMzg5MjU4MiIsIm1kNSI6ImIwNzE4MDM2MWU0MTU3N2UyY2RjNTYwMDIwM2ZiZTRjIiwiaWF0IjoxNjU2NDU0NTc2LCJleHAiOjE2NTY0NTQ2NjYsImlzcyI6IldMUyIsInN1YiI6Ijg1YmY2OGI5LWM5Y2ItNGY2NS05N2FjLWUxYmE1ZTdhYzRmMCJ9.W-ukXkqKFloA6AUP2WlUjubafx0h4iOh4G9yiFOqCEQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港澳台",美东台
-https://ntd02.akamaized.net/HD-NY/tracks-v2a1/mono.m3u8
+https://ntd02.akamaized.net/HD-NY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港澳台",美西台
 https://live.ntdtv.com/uwlive990/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港澳台",欧洲台
