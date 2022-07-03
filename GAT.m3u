@@ -136,8 +136,6 @@ http://38.64.72.148/hls/modn/list/4001/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森美洲
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gvupload.zype.com/5c882803c1c8d712ce0039ea/video_image/62791e56adc7bb00019a6050/1652104790/original.jpg?1652104790" group-title="港澳台",东森美洲新闻台（抱歉由于服务器抢修中，暂时不能播放）
-https://zypelive-amd.akamaized.net/hls/live/2042685/main/playlist.m3u8?6pLKMQ3y=A3LziQ3i&F38b1dF4=62ba6b74c9a44f0001b0c1c0&hdnts=exp%3D1656470772%7Eacl%3D%2F*2042685%2F*%7Ehmac%3Dc6095c1105562f9488de90552b972a0e428ed3078c664d66cf5b5b906acd232f&video_id=5e73f1f2d157bc0001d1ac10
 #EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
 http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
@@ -150,13 +148,13 @@ http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
 http://120.84.96.227:808/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影HD
 http://120.84.96.234:808/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森AMERICA
+#EXTINF:-1 tvg-id="" tvg-name="东森AMERICA" tvg-logo="" group-title="港澳台",东森AMERICA
 http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经AMERICAHD
 http://38.64.72.148/hls/modn/list/2021/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="东森卫视HD" tvg-logo="" group-title="港澳台",东森卫视HD
 http://38.64.72.148/hls/modn/list/2024/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",天下卫视2
+#EXTINF:-1 tvg-id="" tvg-name="天下卫视2" tvg-logo="" group-title="港澳台",天下卫视2
 http://38.64.72.148/hls/modn/list/4009/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
