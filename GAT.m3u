@@ -46,8 +46,12 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",星空卫视
 http://qwas.eatuo.com:9901/tsfile/live/1080_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32（抱歉由于服务器抢修中，暂时不能播放）
+http://59.149.114.27:9981/stream/channelid/1966829575?ticket=a03992877e8e80bf1e3cd8768ca5e877bbc71fa8&profile=matroska
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31（抱歉由于服务器抢修中，暂时不能播放）
-https://t20.iptv200.com/live/rthk31.m3u8?sign=1656272179-f43e3b2e2a62584d0b7335ff66c0ded9大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+http://59.149.114.27:9981/stream/channelid/1966829575?ticket=a03992877e8e80bf1e3cd8768ca5e877bbc71fa8&profile=matroska
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",大立电视台,
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32（抱歉由于服务器抢修中，暂时不能播放）
 http://teslagram.com/live/channel_32.m3u8
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱台
