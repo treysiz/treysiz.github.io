@@ -26,7 +26,7 @@ http://120.84.96.227:808/hls/138/index.m3u8
 http://120.84.96.227:808/hls/137/index.m3u8
 #EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="地方",广东影视
 http://120.84.96.227:808/hls/142/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",岭南戏曲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",岭南戏曲
 http://120.84.96.227:808/hls/143/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://120.84.96.227:808/hls/146/index.m3u8
