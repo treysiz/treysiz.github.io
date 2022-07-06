@@ -65,7 +65,7 @@ http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视（抱歉由于服务器抢修中，暂时不能播放）
-https://t2.iptv200.com/live/tv091/index.m3u8?session=1ntz04sfwitglin0cqdxr9ps0udfdang
+https://epg.pm/stream/107ae2019cf764d03f0dcb10f98e8025a90544f9c8672d3f6ced40defb18ee76.php
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
