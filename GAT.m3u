@@ -12,8 +12,8 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV（抱歉由于服务器抢修中，暂时不能播放）
-https://t17.iptv200.com/live/viutv/index.m3u8?session=h96zi5d9a2ig7sz0p6x5yh11awmf27i9
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
+http://59.149.114.27:9981/stream/channelid/1792388610?ticket=09990c22c00511e3cd02e7cc0d8cfc48792c9842&profile=matroska
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",Viu TV6
 http://120.132.122.244:59845/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",TVB J2
@@ -22,16 +22,18 @@ http://120.84.96.227:808/hls/86/index.m3u8
 http://120.84.96.229:808/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",TVB J2(备1)
 http://120.84.96.234:808/hls/86/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB 翡翠台b
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB 翡翠台1
 http://120.84.96.234:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB 翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB 翡翠台2
 http://120.84.96.227:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",TVB明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",TVB明珠台1
 http://120.84.96.227:808/hls/26/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",TVB明珠台b
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",TVB明珠台2
 http://120.84.96.234:808/hls/26/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台1
 http://59.149.114.27:9981/stream/channelid/50929123?ticket=db661ead90a8e56dfd7b09676a22894cacd64cd4&profile=matroska
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台2
+http://59.149.114.27:9981/stream/channelid/50929123?ticket=0035e04bf82120b64dbb9fa3add7f063df583ad6&profile=matroska
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经台(备1)
 http://ye23.win/iptv/tvb.php?id=2
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻（抱歉由于服务器抢修中，暂时不能播放）
@@ -44,10 +46,10 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",星空卫视
 http://qwas.eatuo.com:9901/tsfile/live/1080_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32（抱歉由于服务器抢修中，暂时不能播放）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rthk.hk/img/rthk-hk_logo_reWork.svg" group-title="港澳台",RTHK32
 http://59.149.114.27:9981/stream/channelid/1966829575?ticket=a03992877e8e80bf1e3cd8768ca5e877bbc71fa8&profile=matroska
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31（抱歉由于服务器抢修中，暂时不能播放）
-http://59.149.114.27:9981/stream/channelid/1966829575?ticket=a03992877e8e80bf1e3cd8768ca5e877bbc71fa8&profile=matroska
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rthk.hk/img/rthk-hk_logo_reWork.svg" group-title="港澳台",RTHK31
+http://59.149.114.27:9981/stream/channelid/630397430?ticket=b053eef3414a22fefceec16465b5f1d3a752086b&profile=matroska
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",大立电视台,
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32（抱歉由于服务器抢修中，暂时不能播放）
