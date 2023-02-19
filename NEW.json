@@ -1,1254 +1,170 @@
-[
-  {
-    "源名字": "酷云影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "User-Agent#Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)",
-    "请求链接": "http://api.kunyu77.com/api.php/provide/"
-  },
-  {
-    "源名字": "手指APP",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://szys5678.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "小鱼影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.mczdyw.com/api.php/app/"
-  },
-  {
-    "源名字": "天空影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.tkys.tv/xgapp.php/v1/"
-  },
-  {
-    "源名字": "猪蹄影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://ccxg.xazhutu.com/xgapp.php/v1/"
-  },
-  {
-    "源名字": "苍蓝影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://vip.ruifenglb.com:4433/api.php/app/"
-  },
-  {
-    "源名字": "琳琅影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.u23c.com/api.php/app/"
-  },
-  {
-    "源名字": "DC琅影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://chaorenbb.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "饭团影视",
-    "播放UA": "User-Agent#Dart/2.14 (dart:io)&&&origin#https://ptwo.wkfile.com",
-    "搜索UA": "",
-    "请求链接": "http://television.wkfile.com/api.php/app/"
-  },
-  {
-    "源名字": "看看剧",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.kankanju.cn/api.php/v1.vod"
-  },
-  {
-    "源名字": "冷视TV",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://len.tv/api.php/v1.vod"
-  },
-  {
-    "源名字": "1080p影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://1080p.one/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "CJT影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.cjt521.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "HG影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://hgyx.vip/api.php/v1.vod"
-  },
-  {
-    "源名字": "爱看美剧",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.uumjw.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "独播社",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://35ys.cc/api.php/v1.vod"
-  },
-  {
-    "源名字": "段友影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://shangjihuoke.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "虎猫视频",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://humaosp.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "可米影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://www.kmysw.vip/api.php/v1.vod"
-  },
-  {
-    "源名字": "69ty影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://www.69ty.cc/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "麻瓜影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://aliyun.k8aa.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "美剧虫",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://meijuchong.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "暖光影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://app.bl210.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "奈菲迷",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://app.netflixmi.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "柠柚影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://nu.e4tv.cn/lvdou_api.php/v1.vod"
-  },
-  {
-    "源名字": "小极影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app.8d8q.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "雪人资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://zy.qd234.cn/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "益达影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://luobu.yss6080.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "雨果影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://ygapp.xcys63.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "影阅阁",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://221.236.18.12:665/api.php/v1.vod"
-  },
-  {
-    "源名字": "追剧吧",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://zhuiju8.vip/api.php/v1.vod"
-  },
-  {
-    "源名字": "U5影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://appx.uy07.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "YOYO影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://jx.wnvod.net/ruifenglb_api.php/v1.vod"
-  },
-  {
-    "源名字": "爱影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.hzlff.cn/api.php/v1.vod"
-  },
-  {
-    "源名字": "艾特影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.aitee.cc/api.php/v1.vod"
-  },
-  {
-    "源名字": "豆渣影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://douzhayss.cc/api.php/v1.vod"
-  },
-  {
-    "源名字": "黄河影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://i.ledu8.cn/api.php/v1.vod"
-  },
-  {
-    "源名字": "盒子影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://i.nihaohezi.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "筋斗云影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://tv.jindcloud.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "极光影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app.winxz.cc/api.php/v1.vod"
-  },
-  {
-    "源名字": "橘子影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://jz.juzidy.vip/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "看剧吧",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app.ishen520.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "蓝光视频",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://vip.91iqiyi.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "林谷影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://ys.linguyy.xyz/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "美剧范",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://ttzmz.net/api.php/v1.vod"
-  },
-  {
-    "源名字": "皮皮动漫",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://dm.muying.me/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "奇趣影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://app.qiqu.me/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "思奇影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app.siqitv.vip/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "三日影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.3ri.net/api.php/v1.vod"
-  },
-  {
-    "源名字": "视听星球",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://zjyapijzys.shynwlkj.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "淘剧社",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://app.shuhai99.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "天天视频",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app.qianju.cc/api.php/v1.vod"
-  },
-  {
-    "源名字": "快云影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.kuaiyunyy.com/api.php/app/"
-  },
-  {
-    "源名字": "兔子窝",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "吾爱影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app.5lp.net/api.php/v1.vod"
-  },
-  {
-    "源名字": "蜗牛动漫",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "熊猫动漫",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://dongman.k8aa.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "蜻蜓影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://3ketv.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "星球视频",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://119.29.121.48:8088/api.php/v1.vod"
-  },
-  {
-    "源名字": "玺心影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://tv.arbd.cn/api.php/v1.vod"
-  },
-  {
-    "源名字": "樱花动漫",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.dmwu.cc/api.php/v1.vod"
-  },
-  {
-    "源名字": "影视热剧",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://lb.26ys.cn/api.php/v1.vod"
-  },
-  {
-    "源名字": "鱼鱼影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://luobo.yugenye.site/api.php/v1.vod"
-  },
-  {
-    "源名字": "柚子视频",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://yz.26ys.cn/api.php/v1.vod"
-  },
-  {
-    "源名字": "追剧猫",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://tv.kmtvb.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "猪猪影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app.2zdyy.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "913E影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://www.913e.net/xgapp.php/v1/"
-  },
-  {
-    "源名字": "360影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://360yy.cn/api.php/app/"
-  },
-  {
-    "源名字": "爱迪影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://aidi.fun/xgapp.php/v1/"
-  },
-  {
-    "源名字": "播放呀",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.bofangya.com/xgapp.php/v1/"
-  },
-  {
-    "源名字": "嘀哩嘀哩",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://dilidili.la/api.php/app/"
-  },
-  {
-    "源名字": "非凡TV",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://app.feifan.live:2087/xgapp.php/v1/"
-  },
-  {
-    "源名字": "海胆影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://xf123.cc/api.php/app/"
-  },
-  {
-    "源名字": "京广航影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.jingguanhang.com/api.php/app/"
-  },
-  {
-    "源名字": "久九影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://api.58qxk.cn/xgapp.php/v1/"
-  },
-  {
-    "源名字": "365影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.kan365.xyz/api.php/app/"
-  },
-  {
-    "源名字": "萌蛋蛋影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app.mengdandan.com/xgapp.php/v1/"
-  },
-  {
-    "源名字": "皮皮影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://pp.ig4.cn/api.php/app/"
-  },
-  {
-    "源名字": "神马电影",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.6080kan.cc/xgapp.php/v1/"
-  },
-  {
-    "源名字": "躺平影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://www.lltpys.com/api.php/app/"
-  },
-  {
-    "源名字": "星空影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://xkys.tv/xgapp.php/v1/"
-  },
-  {
-    "源名字": "小七影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://ys.kd60.cn/api.php/app/"
-  },
-  {
-    "源名字": "雪人影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://qqtvapp.com/xgapp.php/v1/"
-  },
-  {
-    "源名字": "映迷影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.inmi.app/xgapp.php/v1/"
-  },
-  {
-    "源名字": "六神追剧",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://l.520say.cn/api.php/app/"
-  },
-  {
-    "源名字": "耀协影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://jx.yaoxieyy.xyz/api.php/v1.vod"
-  },
-  {
-    "源名字": "千寻时光",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://wy.dqyhg.cn/api.php/provide/vod/"
-  },
-  {
-    "源名字": "思古影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.siguyy.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "爱西西",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://myaixixi.com/xgapp.php/v1/"
-  },
-  {
-    "源名字": "南府影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://iapp.nfuxs.club/dnmb.php/v1.vod"
-  },
-  {
-    "源名字": "闪电影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://sdzyapi.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "奈飞迷APP",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://app.netflixmi.com/ruifenglb_api.php/v1.vod"
-  },
-  {
-    "源名字": "菜鸟动漫",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://taikong.huangguay.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "寻常影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://tv.91ymz.cn/api.php/v1.vod"
-  },
-  {
-    "源名字": "任性看",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://renxingkan.net/api.php/v1.vod"
-  },
-  {
-    "源名字": "晗先森",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://hantv.top/api.php/v1.vod"
-  },
-  {
-    "源名字": "火星人",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.huoxing9.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "嗷呜影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://aowu.pro/api.php/v1.vod"
-  },
-  {
-    "源名字": "XG影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://cms.xggm.top/ruifenglb_api.php/v1.vod"
-  },
-  {
-    "源名字": "JDODO",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://appys.jdodo.xyz/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "51视频",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://51shipin.cc/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "小白动漫",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://121.62.60.222:20222/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "闪光影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://101.35.128.192/mubai_api.php/m2.vod"
-  },
-  {
-    "源名字": "叮当影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://tv.0573wl.com/api.php/v1.vod/"
-  },
-  {
-    "源名字": "300看世界",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://300ys.xyz/api.php/v1.vod"
-  },
-  {
-    "源名字": "毒舌电影",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://cms.96ym.cn/api.php/app/"
-  },
-  {
-    "源名字": "神马资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://www.zitv.cc/api.php/provide/vod/"
-  },
-  {
-    "源名字": "抹茶猪",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.mczdyw.com/xgapp.php/v1/"
-  },
-  {
-    "源名字": "思古App",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://app.siguyy.com/xgapp.php/v1/"
-  },
-  {
-    "源名字": "913E影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://www.913e.net/api.php/app/"
-  },
-  {
-    "源名字": "萌果",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://api.appearoo.top/api.php/provide/vod/"
-  },
-  {
-    "源名字": "热播",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app.reboju.net/api.php/provide/vod/"
-  },
-  {
-    "源名字": "青苹果",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://www.aiyy.tv/xgapp.php/v1/"
-  },
-  {
-    "源名字": "星影相随",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app.rootthree.top/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "星一蓝光",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://lgku.suboyun.cn/api.php/provide/vod/"
-  },
-  {
-    "源名字": "杨桃影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://ytys3456.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "大熊影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://dxys2233.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "全能资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://qnys5566.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "六神影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://6s666.520say.cn/api.php/provide/vod/"
-  },
-  {
-    "源名字": "龙腾资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.mczdyw.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "融兴资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://997.yuanmajs.cn/api.php/provide/vod/"
-  },
-  {
-    "源名字": "人人迷资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://video.yingworld.vip/api.php/provide/vod/"
-  },
-  {
-    "源名字": "老弟资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.vp1127.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "诺迅资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://caiji.nxflv.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "灯塔资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://vip.hwh.ink/api.php/provide/vod/"
-  },
-  {
-    "源名字": "1920官采",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://zy.1920i.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "剧白白",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://v.pipitu.top/xgapp.php/v2/"
-  },
-  {
-    "源名字": "OMO动漫",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.omofun.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "天空影视2",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.tkys.tv/xgapp.php/v2/"
-  },
-  {
-    "源名字": "4K影院",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://1api.4kdytv.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "好看剧",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://bc.haokanju1.cc/lvdou_api.php/v1.vod"
-  },
-  {
-    "源名字": "爱酷影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
-  },
-  {
-    "源名字": "菜鸟追剧",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://81.71.18.95:5555/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "白嫖影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://zgjxdtg.cn/api.php/v1.vod"
-  },
-  {
-    "源名字": "初心影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.18mv.club/api.php/v1.vod"
-  },
-  {
-    "源名字": "粉象影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://42.157.129.15:34444/lvdou_api.php/v1.vod"
-  },
-  {
-    "源名字": "康耀影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "User-Agent#Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)",
-    "请求链接": "http://124.222.126.23:999/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "六把刀",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://pro.6bd.net/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "琅琊影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://fgyuu.top/lehailb_api.php/v1.vod"
-  },
-  {
-    "源名字": "蜜蜂影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app.f8tp.com/lvdou_api.php/v1.vod"
-  },
-  {
-    "源名字": "思乐影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.huandian.top/ruifenglb_api.php/v1.vod"
-  },
-  {
-    "源名字": "天成影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://tcspvip.cn/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "天天影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://app.daishusc.com/api.php/v1.vod"
-  },
-  {
-    "源名字": "BL资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://bljiex.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "蘑菇资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.77diany.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "喵派对资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://zy.yilans.net:8090/api.php/provide/vod/"
-  },
-  {
-    "源名字": "番茄资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://api.fqzy.cc/seacmsapi.php/provide/vod/"
-  },
-  {
-    "源名字": "天空云资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "User-Agent#Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)",
-    "请求链接": "https://api.tiankongapi.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "片库资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://pianku.wang/api.php/provide/vod/"
-  },
-  {
-    "源名字": "天堂资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://vipmv.cc/api.php/provide/vod/"
-  },
-  {
-    "源名字": "追剧王",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://app1.udo.cc/api.php/app/"
-  },
-  {
-    "源名字": "云海资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://101.34.7.151:600/api.php/provide/vod/"
-  },
-  {
-    "源名字": "速播云资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://gcku.suboyun.vip/api.php/provide/vod/"
-  },
-  {
-    "源名字": "无尽资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://wujinzy.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "39看",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.39kan.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "小蜻蜓APP",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://3ketv.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "ZW直链",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.zwcoco.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "飞鱼影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://app.feiyu5.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "乐播影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://lbapi9.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "飓风影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://jf.35ys.cc/lehailb_api.php/v1.vod"
-  },
-  {
-    "源名字": "每天看看",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://47.113.126.237:1234/api.php/provide/vod/"
-  },
-  {
-    "源名字": "心鸾影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://xinluan.jiangxs.vip/xgapp.php/v2/"
-  },
-  {
-    "源名字": "追剧达人",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://vipmv.co/xgapp.php/v2/"
-  },
-  {
-    "源名字": "洋葱影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://www.ycrjk.top/api.php/app/"
-  },
-  {
-    "源名字": "宽剧影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://wp.kuanjv.com/xgapp.php/v2/"
-  },
-  {
-    "源名字": "看看影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://kk.ccboke.top/ruifenglb_api.php/v1.vod"
-  },
-  {
-    "源名字": "九和电影",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://ptygx.com/api.php/app/"
-  },
-  {
-    "源名字": "红牛资源",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "User-Agent#Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)",
-    "请求链接": "https://www.hongniuzy2.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "酷点影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://ys.kudian6.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "555电影",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.555dy5.com/api.php/app/"
-  },
-  {
-    "源名字": "皮茶熊TV",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.psinu.com/api.php/provide/vod/"
-  },
-  {
-    "源名字": "考拉视频",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://ikaola.tv/api.php/provide/vod/"
-  },
-  {
-    "源名字": "云梦影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://yun.yunl.xyz/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "月儿影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://yue52.xyz/api.php/v1.vod"
-  },
-  {
-    "源名字": "爱看影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "User-Agent#Dalvik/2.1.0 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ZHCN)",
-    "请求链接": "http://tvcms.ikan6.vip/nicaibudaowojiaosha.php/provide/vod/"
-  },
-  {
-    "源名字": "极酷影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://jiku.vip/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "哆啦咪影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "User-Agent#Dart/2.15 (dart:io)",
-    "请求链接": "http://yuenos-pro.miyuen.cn/qingdoujiekou.php/v1.vod"
-  },
-  {
-    "源名字": "QC影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "https://www.qcsvip.com/mogai_api.php/v1.vod"
-  },
-  {
-    "源名字": "阿里影视",
-    "源类型": "",
-    "播放UA": "",
-    "搜索UA": "",
-    "请求链接": "http://aliys.cn:90/api.php/v1.vod"
-  }
-]
+//公众号【云星日记】
+//公众号【云星日记】
+//公众号【云星日记】
+
+//多个个仓库：多个在线，一个本地
+//本地仓库：需要配合公众号本地包使用详情前往公众号回复关键词
+//在线仓库使用教程公众号回复【可视TV仓库地址】
+//本地仓库使用教程公众号回复【TVBox本地接口】
+
+//•Q①群号：783468715（2k人满）
+//•Q②群号：764366711（2k人满）
+//•Q③群号：211185159（1k人满）
+//•Q⑤群号：716385048（新群）
+
+//QQ频道：搜索云星日记即可           
+//微信群;加客服赞赏入群           
+//客服微信:Yc_zhxx
+
+
+
+{
+"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
+//"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jar",
+
+
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
+"wallpaper":"http://maoyingshi.cc/api.php",
+
+//"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
+//"wallpaper":"https://api.vvhan.com/api/acgimg",  //动漫少女
+//"wallpaper":"https://picsum.photos/1280/720/?blur=10",  //普通
+//"wallpaper":"https://xxxx.xxxx/xxx/xxxx",  //膜板
+
+"sites":[
+
+//{"key": "Bili","name": "🅱️哔哩套餐〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"},
+//{"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/学堂.json"},
+//{"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/演唱会.json"},
+//{"key": "戏曲","name": "📽戏曲〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/戏曲.json"},
+//{"key": "美食","name": " 🍲美食〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/美食.json"},
+//{"key": "少儿","name": "🅰️少儿〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/少儿教育.json"},
+//{"key": "体育","name": "💋体育〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/体育.json"},
+//{"key": "球类","name": "⚽️球类〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/球类.json"},
+//{"key": "棋牌","name": " 🅿️棋牌娱乐〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/棋牌.json"},
+//{"key": "教程","name": "🏧教程〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/教程.json"},
+//{"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/歌曲MV.json"},
+//{"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/短视频.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"},
+
+
+{"key": "csp_Bili1","name": "🅱️哔哩合集Q群：783468715","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/哔哩合集.json"},
+{"key": "软件","name": " 🖤软件教程","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/软件教程.json"},
+{"key": "歌舞","name": "💃印度歌舞","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/印度歌舞.json"},
+{"key": "小姐姐","name": "💃哔哩小姐姐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/哔哩xjj.json"},
+{"key": "车模","name": "💃哔哩车模","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/哔哩车模.json"},
+{"key": "舞蹈","name": "🎗️哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星舞蹈.json"},
+{"key": "演唱会自定义","name": "🌈演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星演唱会.json"},
+{"key": "MV","name": "🌈哔哩MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星MTV.json"},
+{"key": "戏曲自定义","name": "📺哔哩戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星戏曲.json"},
+{"key": "解说","name": "⚽️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星影视解说.json"},
+{"key": "球类","name": "⚽️球球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星球球.json"},
+{"key": "美食","name": " 🧡美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星美食.json"},
+{"key": "棋牌","name": " 💔棋牌合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星棋牌.json"},
+//{"key": "UP主","name": " 🖤UP主机","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星UP主.json"},
+{"key": "PS","name": "🎉PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json"},
+{"key": "外语","name": "🏠外语学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/哔哩外语.json"},
+{"key": "学堂","name": "🍉学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星学堂.json"},
+//{"key": "EXCEL","name": "🌈Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星Excel教程.json"},
+{"key": "足球","name": "⚽️足球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星球星.json"},
+{"key": "体育","name": "💋哔哩体育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/Bilibili/云星体育.json"},
+
+{"key":"说明","name":"公众号【云星日记】","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"说明2","name":"提供免费更新维护","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
+
+
+],
+
+
+"parses":[
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
+{
+		"name": "云you解析①",
+		"type": 1,
+		"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="
+	}, 
+	{
+		"name": "解析02",
+		"type": 1,
+		"url": "https://www.nxflv.com/?url="
+	}, 
+	{
+		"name": "aiku",
+		"type": 1,
+		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
+	}, 
+	{
+		"name": "牛逼解析",
+		"type": 1,
+		"url": "https://nbjx.vip/?url="
+	}, 
+    {
+		"name": "GGTV快速",
+		"type": 1,
+		"url": "https://play.fuqizhishi.com/gang0818/API.php?appkey=QQ172598364&url="
+	}, 
+	{
+		"name": "解析第一",
+		"type": 0,
+		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+	},
+	{
+		"name": "解析05",
+		"type": 0,
+		"url": "http://id190.tpddns.cn:81/jsonch/?url="
+	},	
+	{
+		"name": "m3u8tv高清",
+		"type": 0,
+		"url": "https://jx.m3u8.tv/jiexi/?url="
+	}, 
+	{
+		"name": "parwix稳定",
+		"type": 0,
+		"url": "https://jx.bozrc.com:4433/player/?url="
+	}, 
+	{
+		"name": "OKjx综合",
+		"type": 0,
+		"url": "https://okjx.cc/?url="
+	}
+],
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+"ijk":[
+{"group":"软解码","options":[
+{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"0"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
+{"category":4,"name":"mediacodec-hevc","value":"0"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}
+]},
+{"group":"硬解码","options":[
+{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"1"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
+{"category":4,"name":"mediacodec-hevc","value":"1"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}
+]}
+],
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
