@@ -131,10 +131,10 @@
     "name":"小苹果",
     "type":3,
     "api":"csp_LiteApple",
-    "searchable":1,
-    "quickSearch":1,
+    "searchable": 1
     "filterable":1
-    },
+    "changeable": 1
+   },
     {
       "key": "異界",
       "name": "異界",
