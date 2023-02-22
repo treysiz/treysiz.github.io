@@ -109,10 +109,10 @@
       ]
     },
     {
-      "key": "櫻花",
-      "name": "櫻花",
+      "key": "小苹果",
+      "name": "小苹果",
       "type": 3,
-      "api": "csp_Ying",
+      "api": "csp_LiteApple",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
@@ -126,15 +126,7 @@
       "filterable": 1,
       "changeable": 1
     },
-    {
-    "key":"小苹果",
-    "name":"小苹果",
-    "type":3,
-    "api": "csp_LiteApple",
-    "searchable": 1
-    "filterable":1
-    "changeable": 1
-   },
+  
     {
       "key": "異界",
       "name": "異界",
