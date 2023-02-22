@@ -109,10 +109,10 @@
       ]
     },
     {
-      "key": "小苹果",
-      "name": "小苹果",
+      "key": "美华影视",
+      "name": "美华影视",
       "type": 3,
-      "api": "csp_LiteApple",
+      "api": "csp_Ying",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
