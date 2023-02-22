@@ -204,14 +204,6 @@
       "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
-    {
-    "key":"蓝光电影",
-    "name":"蓝光电影",
-    "type":3,
-    "api":"csp_Lgdyy",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
+
   ]
 }
