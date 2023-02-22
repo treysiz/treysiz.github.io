@@ -150,9 +150,9 @@
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "盤搜",
