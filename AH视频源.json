@@ -83,7 +83,47 @@
         "综艺"
       ]
     },
-    {
+   {
+      "key": "海外看",
+      "name": "海外看",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧"
+        "新马剧"
+        "其他剧"
+        "欧美剧",
+        "泰剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "奇幻片",
+        "惊悚片",
+        "悬疑片",
+        "歌舞片",
+        "灾难片",
+        "犯罪片",
+        "经典片",
+        "冒险片",
+        "动画电影",
+        "国产综艺",
+      ]
+    },
+   
+   {
       "key": "百度",
       "name": "百度",
       "type": 1,
@@ -107,9 +147,34 @@
         "战争片"
       ]
     },
-    {
-      "key": "櫻花",
-      "name": "櫻花",
+   {
+      "key": "天空",
+      "name": "天空",
+      "type": 1,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "大陆剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+   
+   {
+      "key": "樱花",
+      "name": "美华影视",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
@@ -125,6 +190,7 @@
       "filterable": 1,
       "changeable": 1
     },
+  
     {
       "key": "異界",
       "name": "異界",
@@ -204,6 +270,6 @@
       "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
-
+    
   ]
 }
