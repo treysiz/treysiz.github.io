@@ -40,7 +40,7 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
     },
     {
-      "key": "泥巴_1982,",
+      "key": "泥巴,",
       "name": "泥巴",
       "type": 3,
       "api": "csp_NiNi",
@@ -81,7 +81,7 @@
         "剧情片",
         "战争片",
         "纪录片",
-        "综艺"
+        "综艺_1982"
       ]
     },
    {
