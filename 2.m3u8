@@ -58,6 +58,16 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
     },
     {
+      "key": "外语",
+      "name": "🏠外语学堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable":0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/treysiz/treysiz.github.io/main/wy.m3u"
+     },
+     {
       "key": "海外看",
       "name": "海外看",
       "type": 1,
