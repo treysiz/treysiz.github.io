@@ -334,10 +334,10 @@
       ]
     }, 
     {
-      "key": "美华陶片",
-      "name": "美华陶片",
+      "key": "美华ikun",
+      "name": "美华ikun",
       "type": 1,
-      "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/json",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
