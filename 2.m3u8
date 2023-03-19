@@ -100,7 +100,7 @@
       "key": "海外看",
       "name": "海外看",
       "type": 1,
-      "api": "https://haiwaikan.com/api.php/provide/vod/",
+      "api": "http://api.haiwaikan.com/v1/vod?ac=list",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
